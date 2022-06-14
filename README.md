@@ -25,8 +25,8 @@
 
 ## ~~效果~~
 
-![](./1.png "Magic Gardens")
 
+![show](./1.png)
 
 ---
 
