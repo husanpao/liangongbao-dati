@@ -3,7 +3,7 @@
 > 链工宝6月安全月答题-自动答题-题库,题库自动收集
 > 
 
-## 访问人数：![Visitor Count](https://profile-counter.glitch.me/liangongbao-dati/count.svg)
+## 浏览人数：![Visitor Count](https://profile-counter.glitch.me/liangongbao-dati/count.svg)
 
 
 ## 使用人数：![Visitor Count](http://81.68.160.189:35247/count)
