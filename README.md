@@ -1,7 +1,9 @@
 # 链工宝6月安全月答题
 
 > 链工宝6月安全月答题-自动答题-题库,题库自动收集
+> 
 
+![Visitor Count](https://profile-counter.glitch.me/liangongbao-dati/count.svg)
 # 仅供学习交流,严禁用于商业用途,请于24小时内删除
 
 ## 使用
