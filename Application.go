@@ -28,7 +28,7 @@ func OnAccept(ctx *httpproxy.Context, w http.ResponseWriter,
 
 func OnAuth(ctx *httpproxy.Context, authType string, user string, pass string) bool {
 	// Auth test user.
-	if user == "admin" && pass == "jsepc@01!" {
+	if user == "admin" && pass == "123" {
 		return true
 	}
 	return false
