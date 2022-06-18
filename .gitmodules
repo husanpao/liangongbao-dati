@@ -1,0 +1,6 @@
+[submodule "HttpMonitorHelper"]
+	path = HttpMonitorHelper
+	url = https://github.com/husanpao/HttpMonitorHelper.git
+[submodule "HttpMonitor"]
+	path = HttpMonitor
+	url = https://github.com/husanpao/HttpMonitor.git
