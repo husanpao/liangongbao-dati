@@ -14,8 +14,14 @@
 > 配置wifi代理：81.68.160.189 :35246 后打开链工宝APP答题，enjoy it.
 
 ## 编译：
+> 针对一切答题考试等等...提供的一键式解决方案！
+- `HttpMonitor`  中间人代理软件
+- `HttpMonitorHelper`  中间人数据篡改服务
 
-* 电脑编译go代码运行
+* 电脑编译`HttpMonitor` go代码运行中间人软件，运行`HttpMonitorHelper` java 服务
+
+* 修改电脑编译`HttpMonitor`里面的数据篡改服务接口为运行`HttpMonitorHelper`的地址即可
+
 
 - 配置wifi代理：电脑ip:35246 后打开链工宝APP答题，enjoy it.
 
