@@ -22,11 +22,10 @@
 > 针对一切答题考试等等...提供的一键式解决方案！原理就是代理APP的`HTTP/HTTPS`请求，解密`HTTP/HTTPS`传输数据，修改为自己需要的数据。
 
 - `HttpMonitor`  中间人代理软件
-- `HttpMonitorHelper`  中间人数据篡改服务
 
-* 电脑编译`HttpMonitor` go代码运行中间人软件，运行`HttpMonitorHelper` java 服务
 
-* 修改电脑编译`HttpMonitor`里面的数据篡改服务接口为运行`HttpMonitorHelper`的地址即可
+* 电脑编译`HttpMonitor` go代码运行中间人软件
+ 
 
 
 - 配置wifi代理：电脑ip:35246 后打开链工宝APP答题，enjoy it.
