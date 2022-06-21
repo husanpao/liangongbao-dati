@@ -19,7 +19,7 @@
 >
 >> 配置wifi代理：电脑ip:35246 后打开链工宝APP答题，enjoy it.
 >
->> 感谢@BloveDawn 提供updatestart.sh 脚本 自动定时拉取仓库以及题库更新，实现自动化启动。
+>> 感谢[@BloveDawn](https://github.com/BloveDawn) 提供updatestart.sh 脚本 自动定时拉取仓库以及题库更新，实现自动化启动。
 
 ## 编译：
 
