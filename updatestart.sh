@@ -16,7 +16,7 @@ git pull
 
 # update answer.json
 echo "update answer.json..."
-curl -s "$answers_download_url" > "$current_path""$answers_file_name"
+curl -s "$answers_download_url" > "$current_path"/"$answers_file_name"
 
 # kill lgb proxy
 echo "kill lgb proxy..."
