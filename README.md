@@ -6,16 +6,18 @@
 ![Visitor Count](https://profile-counter.glitch.me/liangongbao-dati/count.svg)
 
 # 仅供学习交流,严禁用于商业用途,请于24小时内删除
-## 题库更新时间：2022年 06月 21日 星期二 12:25:40 CST
+
+## 最新题库（自动收集更新）：[点击下载](http://81.68.160.189:35247/sort)
+
 ## 使用
 
 **不想折腾的直接操作**
 > 配置wifi代理：~~xx.xx.xxx.xxx :xxxxx~~ 后打开链工宝APP答题，enjoy it.
 > > **为避免不必要的纠纷，已停止公开在线服务**
-> 
->>**直接使用release包下的程序即可**
-> 
->>配置wifi代理：电脑ip:35246 后打开链工宝APP答题，enjoy it.
+>
+>> **直接使用release包下的程序即可**
+>
+>> 配置wifi代理：电脑ip:35246 后打开链工宝APP答题，enjoy it.
 
 ## 编译：
 
@@ -25,7 +27,6 @@
 
 
 * 电脑编译`HttpMonitor` go代码运行中间人软件
- 
 
 
 - 配置wifi代理：电脑ip:35246 后打开链工宝APP答题，enjoy it.
