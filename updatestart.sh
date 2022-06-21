@@ -15,6 +15,7 @@ echo "running path: $current_path"
 
 # pull latest git code
 echo "pull latest git code..."
+git reset --hard
 git pull
 
 # update answer.json
