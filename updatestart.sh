@@ -18,6 +18,11 @@ echo "pull latest git code..."
 git reset --hard
 git pull
 
+# make updatestart.sh and release/HttpMonitor executable
+echo "make updatestart.sh and release/HttpMonitor executable..."
+chmod +x $current_path/updatestart.sh
+chmod +x $current_path/release/HttpMonitor_linux
+
 # update answer.json
 echo "update answer.json..."
 curl -s "$answers_download_url" > "$current_path/$answers_file_name"
