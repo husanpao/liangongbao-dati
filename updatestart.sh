@@ -10,6 +10,7 @@ answers_file_name="answer.json"
 current_path=$(cd `dirname $0`; pwd)
 screen_name="lgb"
 
+cd $current_path
 echo $(date)
 echo "running path: $current_path"
 
